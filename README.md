@@ -1,7 +1,7 @@
 
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=Egg&color=EFDC05&height=170&section=header&text=woojun's%20GitHub&fontColor=fff&fontAlignX=45&fontAlignY=65&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=Egg&color=EFDC05&height=170&section=header&text=woojun's%20GitHub&fontColor=fff&fontAlignX=45&fontAlignY=45&fontSize=70)
   
 
 <img width="90%" src="https://mblogthumb-phinf.pstatic.net/MjAxODExMDFfMTcw/MDAxNTQxMDQyMDg4MjQ0.B0N974qP_FCEw6Hj28xDjRYXTHU6R7M7pEpvsRKhqlAg.zaTEhwKDfmQql81e44pyBapnlvdO38GdJHME-V_fQkAg.GIF.yellowouk2/1540993661620.GIF?type=w800"/>
