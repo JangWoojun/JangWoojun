@@ -43,7 +43,7 @@ I am currently challenging TIL challenge and Daily Commit challenge,Daily PS Cha
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangwoojun&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br> 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woojun0107)](https://solved.ac/woojun0107/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=woojun0107)](https://solved.ac/woojun0107)
 
 ![Eunjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangwoojun&show_icons=true) 
 
