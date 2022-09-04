@@ -31,7 +31,7 @@ I am currently challenging TIL challenge and Daily Commit challenge,Daily PS Cha
 ### ...
 
 
-### About Me👩‍💻
+### About Me 👩‍💻
 
   <a href="https://jangwoojun.github.io/"><img src="https://img.shields.io/badge/-Blog-orange">
   <a href = "https://www.instagram.com/w_oojun06/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a></a>
