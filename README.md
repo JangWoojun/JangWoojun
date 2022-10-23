@@ -15,10 +15,9 @@ I am studying steadily every day for my dream of becoming an app developer.
 
 ## Challenge 🏆
 I am currently challenging TIL challenge and Daily Commit challenge,Daily PS Challenge
- <br> <br>
 
 ## Technology Stack 💻
-  studying 📚
+  Studying 📚
 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
@@ -28,8 +27,6 @@ I am currently challenging TIL challenge and Daily Commit challenge,Daily PS Cha
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
   <!-- <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>  -->
 ### ...
-
-  
 
 ## Stats 👾
 
