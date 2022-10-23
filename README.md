@@ -30,7 +30,7 @@ I am currently challenging TIL challenge and Daily Commit challenge,Daily PS Cha
 
 ## Stats 👾
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=woojun0107)](https://solved.ac/woojun0107)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=woojun0107)](https://solved.ac/woojun0107) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangwoojun&exclude_repo=Web&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br> 
 
