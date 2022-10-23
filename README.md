@@ -3,7 +3,6 @@
 
 👋 Hello, my name is Jang Woojun and I am currently in high school.<br> 
 I am studying steadily every day for my dream of becoming an app developer.
- <br> <br>
 - 📲 &nbsp; Aspiring App Developer
 - 🏫 &nbsp; High School Student 
 - 📚 &nbsp; Study Every Day
