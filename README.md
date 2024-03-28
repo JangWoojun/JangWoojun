@@ -20,6 +20,6 @@ If you're interested in my challenges, visit <a href="https://jangwoojun.github.
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> ...
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangwoojun&exclude_repo=Web&hide=html,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Eunjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangwoojun&show_icons=true) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangwoojun&exclude_repo=Machine-Learning,Web&hide=html,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Eunjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangwoojun&show_icons=true) 
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=woojun0107)](https://solved.ac/woojun0107) -->
