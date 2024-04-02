@@ -1,7 +1,7 @@
 ## Welcome👋
 <img width="50%" src="https://mblogthumb-phinf.pstatic.net/MjAxODExMDFfMTcw/MDAxNTQxMDQyMDg4MjQ0.B0N974qP_FCEw6Hj28xDjRYXTHU6R7M7pEpvsRKhqlAg.zaTEhwKDfmQql81e44pyBapnlvdO38GdJHME-V_fQkAg.GIF.yellowouk2/1540993661620.GIF?type=w800"/>
 
-Hello, my name is Jang Woojun and I am currently in high school.<br> 
+Hello, my name is [Jang Woojun](https://my.surfit.io/w/72920266) and I am currently in high school.<br> 
 I am studying steadily every day for my dream of becoming an app developer.
 - 📲 &nbsp; Aspiring App Developer
 - 🏫 &nbsp; High School Student 
