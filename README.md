@@ -33,3 +33,5 @@ To follow my growth journey, visit [my blog](https://jangwoojun.github.io/).
 
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=woojun0107)](https://solved.ac/woojun0107) -->
+
+https://www.figma.com/slides/l2rZEcSOlfVjWzr3kPewqX/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EA%B0%95%EC%9D%98-1%EC%B0%A8%EC%8B%9C?node-id=1-18&t=oix5o9x8KF0sH3Br-1
