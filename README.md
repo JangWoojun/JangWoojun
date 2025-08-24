@@ -2,17 +2,14 @@
 
 <img width="50%" src="https://mblogthumb-phinf.pstatic.net/MjAxODExMDFfMTcw/MDAxNTQxMDQyMDg4MjQ0.B0N974qP_FCEw6Hj28xDjRYXTHU6R7M7pEpvsRKhqlAg.zaTEhwKDfmQql81e44pyBapnlvdO38GdJHME-V_fQkAg.GIF.yellowouk2/1540993661620.GIF?type=w800"/>
 
-Hello, I'm [Jang Woojun](https://my.surfit.io/w/72920266), a high school student with a passion for app development. <br>
-I’m dedicated to studying every day to achieve my dream of becoming an app developer.
-
-- 📲 &nbsp; Aspiring App Developer
-- 🏫 &nbsp; High School Student
-- 📚 &nbsp; Committed to Daily Study
+Hello :) I'm Jang Woojun, an Android app developer who loves mobile. 👋🏻 <br>
+As much as I love mobile, a user-friendly platform, I'm striving to satisfy users <br>
+and prove my growth through actions, not just words.
 
 ## Current Challenge 🏆
 
 I’m currently taking on the **Daily Commit** challenge! <br>
-To follow my growth journey, visit [my blog](https://jangwoojun.github.io/).
+To follow my growth journey, visit [my blog](woojun.app).
 
 ## Skills 👾
 
