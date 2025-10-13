@@ -9,7 +9,7 @@ and prove my growth through actions, not just words.
 ## Current Challenge 🏆
 
 I’m currently taking on the **Daily Commit** challenge! <br>
-To follow my growth journey, visit [my blog](woojun.app).
+To follow my growth journey, visit [my blog](https://woojun.app/).
 
 ## Skills 👾
 
