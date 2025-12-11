@@ -21,12 +21,3 @@ To follow my growth journey, visit [my blog](https://woojun.app/).
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </div>
 
-<div style="float: left; margin-right: 15px;">
-
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangwoojun&exclude_repo=Machine-Learning,big-data-analysis,flask,Web&hide=html,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-![Jang Woojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jangwoojun&show_icons=true)
-
-</div>
-
-
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=woojun0107)](https://solved.ac/woojun0107) -->
