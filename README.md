@@ -11,10 +11,11 @@ and prove my growth through actions, not just words.
 I’m currently taking on the **Daily Commit** challenge! <br>
 To follow my growth journey, visit [my blog](https://woojun.app/).
 
-## Skills 👾
+## Language 👾
 
 <div style="float: left; margin-right: 15px;">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
