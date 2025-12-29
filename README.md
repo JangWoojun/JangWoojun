@@ -3,15 +3,14 @@
 <img width="50%" src="https://mblogthumb-phinf.pstatic.net/MjAxODExMDFfMTcw/MDAxNTQxMDQyMDg4MjQ0.B0N974qP_FCEw6Hj28xDjRYXTHU6R7M7pEpvsRKhqlAg.zaTEhwKDfmQql81e44pyBapnlvdO38GdJHME-V_fQkAg.GIF.yellowouk2/1540993661620.GIF?type=w800"/>
 
 Hello :) I'm Jang Woojun, an Android app developer who loves mobile. 👋🏻 <br>
-As much as I love mobile, a user-friendly platform, I'm striving to satisfy users <br>
-and prove my growth through actions, not just words.
+I focus on building user-friendly experiences and proving my growth through actions, not just words.
 
 ## Current Challenge 🏆
 
 I’m currently taking on the **Daily Commit** challenge! <br>
 To follow my growth journey, visit [my blog](https://woojun.app/).
 
-## Language 👾
+## Languages 👾
 
 <div style="float: left; margin-right: 15px;">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
@@ -22,3 +21,5 @@ To follow my growth journey, visit [my blog](https://woojun.app/).
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </div>
 
+## GitHub Activity 🧩
+![](./profile-3d-contrib/profile-gitblock.svg)
